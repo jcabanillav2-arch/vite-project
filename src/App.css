@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.contenedor {
+    width: 500px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 8px 12px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.contacto {
+    margin-top: 15px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.contacto h3,
+.contacto p {
+    margin: 5px 0;
+}
